@@ -6,4 +6,4 @@ def sum_number(num):
  return sum  #it returns the sum of the elements
 
 num=[1,2,3,4,5,6,7,8,9]
-print(sum_number(num))
+print(sum_number(num))  #calls the function
